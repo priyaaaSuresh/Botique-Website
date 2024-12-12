@@ -1,0 +1,27 @@
+body{
+	background-image: url('imgs/bg5.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.login-container{
+	font-family: cursive;
+}
+.login-container h1{
+	padding-top: 20px;
+	color: red;
+	font-style: italic;
+}
+.login-container h1 div form{
+	padding: 60%;
+    padding-left: 29%;
+    padding-right: 25%;
+} 
+.container-sm { 
+	border-radius: 100px;
+    width:auto;
+    background-color:transparent;
+    border-radius: 5px;
+   box-shadow: 0 2px 5px rgba(2, 17, 21, 0.5);
+   backdrop-filter: blur(2px);background-color: transparent;
+}
+.
